@@ -1,6 +1,6 @@
 https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions
 
-# Array:#
+# Array:
 
 - Two Sum https://leetcode.com/problems/two-sum/
 - Best Time to Buy and Sell Stock https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
@@ -13,7 +13,7 @@ https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questio
 - 3 Sum
 - Container With Most Water
 
-# String:#
+# String:
 
 - Longest Substring Without Repeating Characters
 - Longest Repeating Character Replacement
@@ -26,7 +26,7 @@ https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questio
 - Palindromic Substrings
 - Encode and Decode Strings (Leetcode Premium)
 
-# Dynamic Programming:#
+# Dynamic Programming:
 
 - Climbing Stairs
 - Coin Change
