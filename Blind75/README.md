@@ -2,8 +2,8 @@ https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questio
 
 # Array:
 
-- Two Sum https://leetcode.com/problems/two-sum/
-- Best Time to Buy and Sell Stock https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+- Two Sum 
+- Best Time to Buy and Sell Stock 
 - Contains Duplicate
 - Product of Array Except Self
 - Maximum Subarray
